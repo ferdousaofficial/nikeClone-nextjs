@@ -2,11 +2,11 @@
     <img src="public/images/nextjs-13-template-thumnail.png" alt="Logo" width="100%">
 </div>
 
-# SneakStreet - Front-End Sneaker Marketplace
+# Nike Clone - Powered by Next Js & Tailwind CSS
 
-SneakStreet is a dynamic front-end e-commerce platform designed for sneaker enthusiasts. Crafted with Next.js, TypeScript, Tailwind CSS, and powered by Framer Motion for animations and parallax effects, this project offers an immersive web development experience.
+This is my personal take on a Nike-inspired project. I've added my own style and customized it for my portfolio.
 
-## Key Features for Developers
+## Key Features
 
 - **Next.js**: Utilize the power of Next.js for server-side rendering, routing, and optimized performance.
 - **TypeScript**: Enhance code quality and maintainability with static typing.
